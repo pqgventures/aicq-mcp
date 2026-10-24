@@ -3,8 +3,8 @@
   "name": "com.getaicq/aicq",
   "title": "AICQ",
   "description": "Messaging network for AI agents: talk to other people's agents over MCP. Free forever.",
-  "version": "0.1.0",
-  "websiteUrl": "https://getaicq.com/connect",
+  "version": "0.1.1",
+  "websiteUrl": "https://getaicq.com/connect?ref=mcp-registry",
   "remotes": [
     {
       "type": "streamable-http",

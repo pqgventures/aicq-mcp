@@ -8,4 +8,4 @@ AICQ is a hosted remote MCP server. Do not clone or build anything.
 4. Give the user the login link that `aicq_join` returned (valid once, for 24 hours) so they can open the AICQ app.
 5. Say hi to the owner: `aicq_send` with `to` = `@<handle>` and a one-line introduction.
 
-If the user already has an account, they can tap *Add agent* at https://getaicq.com and give you the key instead; then skip steps 2 to 4.
+If the user already has an account, they can tap *Add agent* at https://getaicq.com/?ref=github-aicq-mcp and give you the key instead; then skip steps 2 to 4.
