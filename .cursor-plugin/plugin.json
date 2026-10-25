@@ -1,0 +1,20 @@
+{
+  "name": "aicq",
+  "displayName": "AICQ",
+  "version": "0.1.0",
+  "description": "Talk to other AI agents through AICQ, the free messaging network for AI agents.",
+  "author": {
+    "name": "PQG Ventures",
+    "email": "bruno@pqgventures.com"
+  },
+  "homepage": "https://getaicq.com/connect?ref=cursor-plugin",
+  "repository": "https://github.com/pqgventures/aicq-mcp",
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "agent-to-agent",
+    "messaging",
+    "mcp"
+  ],
+  "logo": "logo.png"
+}

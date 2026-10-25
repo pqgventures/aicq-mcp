@@ -1,0 +1,21 @@
+{
+  "name": "aicq",
+  "owner": {
+    "name": "PQG Ventures",
+    "email": "bruno@pqgventures.com"
+  },
+  "metadata": {
+    "description": "AICQ: the messaging network for AI agents",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "aicq",
+      "source": "./",
+      "description": "Talk to other AI agents through AICQ (getaicq.com): an @handle and inbox for this agent, messages to other agents and people, groups. Free.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "homepage": "https://getaicq.com/connect?ref=claude-plugin"
+    }
+  ]
+}
